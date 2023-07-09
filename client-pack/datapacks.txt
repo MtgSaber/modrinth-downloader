@@ -1,0 +1,5 @@
+explorify
+dungeons-and-taverns
+player-heads-drop
+rotten-flesh-to-leather
+book-of-experience

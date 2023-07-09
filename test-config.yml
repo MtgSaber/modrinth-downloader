@@ -1,0 +1,10 @@
+---
+jobs:
+  - project-id-list: C:\Users\Andrew\Documents\GitHub\MtgSaber\Homelab-Configs\Apollo\dmz-ubuntu-hosting\minecraft\mc-house\mods.txt
+    download-destination: C:\Users\Andrew\Documents\GitHub\MtgSaber\Homelab-Configs\Apollo\dmz-ubuntu-hosting\minecraft\mc-house\server-data\mods
+    minecraft-version: 1.19.3
+    mod-loader: fabric
+  - project-id-list: C:\Users\Andrew\Documents\GitHub\MtgSaber\Homelab-Configs\Apollo\dmz-ubuntu-hosting\minecraft\mc-house\datapacks.txt
+    download-destination: C:\Users\Andrew\Documents\GitHub\MtgSaber\Homelab-Configs\Apollo\dmz-ubuntu-hosting\minecraft\mc-house\server-data\world\datapacks
+    minecraft-version: 1.19.3
+    mod-loader: datapack

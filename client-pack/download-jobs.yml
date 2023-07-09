@@ -1,0 +1,11 @@
+---
+jobs:
+  - project-id-list: C:\Users\Andrew\Documents\GitHub\MtgSaber\Homelab-Configs\Client\Minecraft\Modpacks\Vanilla-Plus\1.19.3\Fabric\fabric-mods.txt
+    download-destination: C:\Users\Andrew\Minecraft\dir\modded\FabricVanillaPlus-1.19.3\mods
+    minecraft-version: 1.19.3
+    mod-loader: fabric
+
+  - project-id-list: C:\Users\Andrew\Documents\GitHub\MtgSaber\Homelab-Configs\Client\Minecraft\Modpacks\Vanilla-Plus\1.19.3\Fabric\datapacks.txt
+    download-destination: C:\Users\Andrew\Minecraft\dir\modded\FabricVanillaPlus-1.19.3\datapacks
+    minecraft-version: 1.19.3
+    mod-loader: datapack
